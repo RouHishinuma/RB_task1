@@ -21,9 +21,10 @@ https://github.com/RouHishinuma/RB_task1/blob/master/myled1.c
 
 ---
 ダウンロード
----
+```
 $ git clone https://github.com/RouHishinuma/RB_task1/blob/master/myled1.c
--$ cd RB_task1
--$ make
--$ sudo insmod myled1.ko
--$ sudo chmod 666 /dev/myled10
+$ cd RB_task1
+$ make
+$ sudo insmod myled1.ko
+$ sudo chmod 666 /dev/myled10
+```
