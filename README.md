@@ -49,4 +49,4 @@ https://youtu.be/HcrsSbrtwc4
 ---
 ## ライセンス
 
-
+https://github.com/RouHishinuma/RB_task1/blob/main/LICENSE
