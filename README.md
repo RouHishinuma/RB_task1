@@ -15,9 +15,13 @@ https://github.com/RouHishinuma/RB_task1/blob/master/myled1.c
 ## 使用した道具
 
 1.ラスベリーパイ４x１
+
 2.LEDx4
+
 3.ブレッドボードx１
+
 4.２２０Ω抵抗x4
+
 5.ジャンパー線x8
 
 ---
@@ -37,4 +41,4 @@ $ echo 0 > /dev/myled10
 ```
 ---
 ## 動画
-
+https://youtu.be/HcrsSbrtwc4
